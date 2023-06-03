@@ -17,7 +17,7 @@ Or use locally using github this way (don't forget to change include paths in .c
 git clone https://github.com/google/googletest.git
 ```
 * Clone this repository;
-* Create tests (or use mine example):
+* Create tests (or use my example):
 ```
 mkdir build && cd build
 cmake ..
